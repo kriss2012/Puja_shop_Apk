@@ -1,4 +1,4 @@
-# 🛕 Online Puja Store App
+# 🛕 Online Puja Store App quich home delivery 🚚 
 
 An Android E-Commerce Application for purchasing **Puja Samagri, Havan Samagri, and Religious Items** online.
 
